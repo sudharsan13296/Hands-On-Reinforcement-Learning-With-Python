@@ -115,7 +115,7 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 * [7.10. Generating Song Lyrics using LSTM RNN](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/07.%20Deep%20Learning%20Fundamentals/7.10%20Generating%20Song%20Lyrics%20Using%20LSTM%20RNN.ipynb)
 * [7.11. Convolutional Neural Networks](#)
 * [7.12. CNN Architecture](#)
-* [7.13. Classifying Clothes Using CNN](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/07.%20Deep%20Learning%20Fundamentals/7.13%20Classifying%20Fashion%20Products%20Using%20CNN.ipynb)
+* [7.13. Classifying Fashion Products Using CNN](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/07.%20Deep%20Learning%20Fundamentals/7.13%20Classifying%20Fashion%20Products%20Using%20CNN.ipynb)
  
 
 ### [8. Atari Games With Deep Q Network](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/08.%20Atari%20Games%20with%20DQN)
