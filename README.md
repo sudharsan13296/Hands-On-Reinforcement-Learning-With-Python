@@ -13,7 +13,10 @@
 
 Reinforcement Learning with Python will take your learning to the next level. It will help you master the concepts of reinforcement learning to deep reinforcement learning and you will see things in action. The book will explain everything from scratch by implementing practical applications.
 
-The book starts with an introduction to Reinforcement Learning, OpenAI, and TensorFlow. You will then explore Reinforcement learning algorithms and concepts such as the Markov Decision Processes (MDPs), Monte-Carlo tree search, and dynamic programming, including policy and value iteration. You will get to grips with temporal difference learning algorithms, including Q-learning and SARSA. This example-rich guide will introduce you to neural networks and deep learning, covering various deep learning algorithms. You will explore deep reinforcement learning in depth, which is a combination of deep learning and reinforcement learning. You will also learn how deep reinforcement learning algorithms can be used with TensorFlow to build intelligent applications.
+The book starts with an introduction to Reinforcement Learning and various fundamental reinforcement learning concepts and then you will learn about OpenAI Gym and TensorFlow. You will then explore various Reinforcement learning algorithms and concepts such as the Markov Decision Processes (MDPs), Monte-Carlo methods, and dynamic programming, including value and policy iteration. You will get to grips with temporal difference learning algorithms, including Q-learning and SARSA. This example-rich guide will introduce you to deep learning, covering various deep learning algorithms such as RNN, LSTM, CNN. You will then explore deep reinforcement learning in depth, which is a combination of deep learning and reinforcement learning. You will master various deep reinforcement learning algorithms such as DQN, Double DQN. Dueling DQN, DRQN, A3C and policy gradients methods such as DDPG, TRPO, and PPO by building intelligent applications using tensorflow and gym. You will also learn about recent advancements in reinforcement learning such as imagination augmented agents, learn from human preference, DQfd, HER and many more. 
+
+By the end of the book, you will have all the knowledge and experience to implement reinforcement learning and deep reinforcement learning in your projects, and you will be all set to enter the world of artificial intelligence.
+
 
 ### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/01.%20Introduction%20to%20Reinforcement%20Learning)
 
@@ -28,7 +31,7 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 
 
 
-### [2. Getting Started with OpenAi and Tensorflow](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/02.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow)
+### [2. Getting Started with OpenAI and Tensorflow](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/02.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow)
 
 * [2.1. Setting Up Your Machine ](#)
 * [2.2. Installing Anaconda](#)
