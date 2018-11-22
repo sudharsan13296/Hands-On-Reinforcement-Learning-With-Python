@@ -8,7 +8,7 @@
 
 ## About the book
 <a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python">
-  <img src="https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/images/book_cover.jpg" alt="Book Cover" width="250" align="left"/>
+  <img src="https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/images/book_cover.jpg" alt="Book Cover" width="200" align="left"/>
 </a>
 
  Reinforcement Learning with Python will help you to master basic reinforcement learning algorithms to the advanced deep reinforcement learning algorithms. 
