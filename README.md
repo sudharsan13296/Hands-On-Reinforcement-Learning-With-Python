@@ -73,7 +73,7 @@ The book starts with an introduction to Reinforcement Learning followed by OpenA
 * 4.4. First visit Monte Carlo
 * 4.5. Every visit Monte Carlo
 * [4.6. BlackJack with Monte Carlo](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/04.%20Gaming%20with%20Monte%20Carlo%20Methods/4.6%20BlackJack%20with%20First%20visit%20MC.ipynb)
-* 4.7. Monte Carlo Control](#)
+* 4.7. Monte Carlo Control
 * 4.8. Monte Carlo Exploration Starts
 * 4.9. On Policy Monte Carlo Control
 * 4.10. Off Policy Monte Carlo Control
