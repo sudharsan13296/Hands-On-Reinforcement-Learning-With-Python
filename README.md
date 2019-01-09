@@ -40,6 +40,8 @@ The book starts with an introduction to Reinforcement Learning followed by OpenA
 <br>
 </div>
 
+<br>
+
 [For effective reading and better rendering, check all the notebooks here](http://nbviewer.jupyter.org/github/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/)
 
 ### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/01.%20Introduction%20to%20Reinforcement%20Learning)
