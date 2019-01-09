@@ -19,6 +19,34 @@ The book starts with an introduction to Reinforcement Learning followed by OpenA
 [For effective reading and better rendering, check all the notebooks here](http://nbviewer.jupyter.org/github/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/)
 
 
+
+## Get the book 
+<div>
+<a target="_blank" href="https://www.oreilly.com/library/view/hands-on-reinforcement-learning/9781788836524/">
+  <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
+</a>
+  
+<a target="_blank" href="https://www.amazon.com/Hands-Reinforcement-Learning-Python-reinforcement-ebook/dp/B079Q3WLM4">
+  <img src="./images/amazon_logo.jpg" alt="Amazon" >
+</a>
+
+<a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python">
+  <img src="./images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
+</a>
+
+<a target="_blank" href="https://books.google.co.in/books/about/Hands_On_Reinforcement_Learning_with_Pyt.html?id=wJBiDwAAQBAJ&redir_esc=y">
+  <img src="./images/googlebooks_logo.png" alt="Google Books" 
+</a>
+
+<a target="_blank" href="https://play.google.com/store/books/details/Sudharsan_Ravichandiran_Hands_On_Reinforcement_Lea?id=wJBiDwAAQBAJ">
+  <img src="./images/googleplay_logo.png" alt="google" >
+</a>
+<br>
+</div>
+
+<br>
+
+
 ### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/01.%20Introduction%20to%20Reinforcement%20Learning)
 
 * [1.1. What is Reinforcement Learning?](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/01.%20Introduction%20to%20Reinforcement%20Learning/1.1%20What%20is%20Reinforcement%20Learning.ipynb)
