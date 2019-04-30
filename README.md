@@ -16,7 +16,7 @@
 The book starts with an introduction to Reinforcement Learning followed by OpenAI and Tensorflow. You will then explore various RL algorithms and concepts such as the Markov Decision Processes, Monte-Carlo methods, and dynamic programming, including value and policy iteration. This example-rich guide will introduce you to deep learning, covering various deep learning algorithms. You will then explore deep reinforcement learning in depth, which is a combination of deep learning and reinforcement learning. You will master various deep reinforcement learning algorithms such as DQN, Double DQN. Dueling DQN, DRQN, A3C, DDPG, TRPO, and PPO. You will also learn about recent advancements in reinforcement learning such as imagination augmented agents, learn from human preference, DQfD, HER and many more. 
 
 
-# Get the book 
+## Get the book 
 <div>
 <a target="_blank" href="https://www.oreilly.com/library/view/hands-on-reinforcement-learning/9781788836524/">
   <img src="./images/Oreilly_safari_logo.png" alt="Oreilly Safari" hieght=150, width=150>
@@ -42,7 +42,7 @@ The book starts with an introduction to Reinforcement Learning followed by OpenA
 
 <br>
 
-# Get the Chinse Version (中文版) 
+## Get the Chinse Version (中文版) 
 
 The book is also translated into chinese and you can get it from here (这本书也被翻译成中文，你可以从这里得到它)：https://item.jd.com/12506442.html
 
