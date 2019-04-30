@@ -42,7 +42,7 @@ The book starts with an introduction to Reinforcement Learning followed by OpenA
 
 <br>
 
-## Get the Chinse Version (中文版) 
+## Get the Chinese Version (中文版) 
 
 The book is also translated into chinese and you can get it from here (这本书也被翻译成中文，你可以从这里得到它)：https://item.jd.com/12506442.html
 
