@@ -46,10 +46,7 @@ The book starts with an introduction to Reinforcement Learning followed by OpenA
 
 The book is also translated into chinese and you can get it from here (这本书也被翻译成中文，你可以从这里得到它：: https://item.jd.com/12506442.html
 
-
-
-
-[For effective reading and better rendering, check all the notebooks here](http://nbviewer.jupyter.org/github/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/)
+<br>
 
 ### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/01.%20Introduction%20to%20Reinforcement%20Learning)
 
