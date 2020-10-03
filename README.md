@@ -1,3 +1,7 @@
+# This repo is no longer valid, check out the second editon of the book which covers basic to advanced deep RL algorithms with extensive math. Check out the new repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
+
+
+
 # [Hands-On Reinforcement Learning With Python](https://www.amazon.com/Hands-Reinforcement-Learning-Python-reinforcement-ebook/dp/B079Q3WLM4)
 
 
