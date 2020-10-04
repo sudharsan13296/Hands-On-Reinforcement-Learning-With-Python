@@ -1,4 +1,4 @@
-# This repo is no longer valid, check out the second editon of the book which covers basic to advanced deep RL algorithms with extensive math. Check out the new repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
+# Check out the second editon of the book which covers basic to advanced deep RL algorithms with extensive math. Check out the new repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
 
 
 
